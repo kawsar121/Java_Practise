@@ -134,3 +134,5 @@ public class First {
 // Jodi intijer na niya string ni tahle nextInt er jawgaw voshve nextline()
 // Jodi intijer na niya DOuble ni tahle nextInt er jawgaw voshve nextDouble()
 // Jodi intijer na niya Float ni tahle nextInt er jawgaw voshve nextFloat()
+
+
