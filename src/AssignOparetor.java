@@ -24,7 +24,7 @@ public class AssignOparetor {
         int a = my.nextInt();
         System.out.print("Enter type your second number : ");
         int b = my.nextInt();
-        a += b;                     a = a+b
+        a += b;                     // ei liner mane eta : a = a+b
         System.out.println("Your result is : "+a);
     }
 }
